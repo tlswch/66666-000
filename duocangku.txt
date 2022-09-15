@@ -1,5 +1,5 @@
 {"urls":[
-{"sourceName":"zqk219","sourceUrl":"https://gitcode.net/zqk219/baip/-/raw/main/zqk19.json"},
+{"sourceName":"zqk219","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/zqk19.json"},
 {"sourceName":"1号仓库","sourceUrl":"http://5.nxog.top/m/dc/api/api/8/tv/update_yuan"},
 {"sourceName":"2号仓库","sourceUrl":"http://5.nxog.top/m/dc/api/api/2/tv/update_yuan"},
 {"sourceName":"3号仓库","sourceUrl":"http://5.nxog.top/m/dc/api/api/3/tv/update_yuan"},
