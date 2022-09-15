@@ -17,10 +17,10 @@
             "url": "http://111.67.196.181/mtv/270.txt",
             "name": "<22>270"
         },
-      //{
-      //     "url": "http://111.67.196.181/mtv/270.txt",
-     //     "name": "<22>270"
-     //   },
+     {
+           "url": "https://gitea.com/Mike906/zyx/raw/branch/main/zzz.json",
+          "name": "mike906"
+        },
 
   //{
       //     "url": "http://111.67.196.181/mtv/270.txt",
@@ -31,7 +31,10 @@
      //     "name": "<22>270"
      //   },
 
-
+//{
+      //     "url": "http://111.67.196.181/mtv/270.txt",
+     //     "name": "<22>270"
+     //   },
 
         {
             "url": "https://gitea.com/33/3/raw/branch/3/3/1",
