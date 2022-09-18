@@ -55,13 +55,13 @@
             "name": "星辰"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/proxyjt.json",
-            "name": "GHPROXY家庭版线路"
+            "url": "https://agit.ai/zbweb/TVBOX/raw/branch/master/json/bcnet.json",
+            "name": "zbweb"
         },
         {
-            "url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/gfjt.json",
-            "name": "家庭FASTGIT线路",
-            "time": "2022-08-26 02:00:00"
+            "url": "https://agit.ai/fenwe/TVBox/raw/branch/master/Box.json",
+            "name": "fenwe"
+          
         },
          {
             "url": "http://52bsj.vip:98/9c",
