@@ -30,10 +30,14 @@
           "url": "https://agit.ai/1357712527/tvbox/raw/branch/master/TVBoxx.json",
         "name": "d8"
         },
+        //{"url": "http://111.67.196.181/mtv/270.txt","name": "<22>270"},
+        //{"url": "http://111.67.196.181/mtv/270.txt","name": "<22>270"},
+        //{"url": "http://111.67.196.181/mtv/270.txt","name": "<22>270"},
+        //{"url": "http://111.67.196.181/mtv/270.txt","name": "<22>270"},
 
 {"url": "https://agit.ai/Gaytime/CC/raw/branch/master/1024.txt","name": "gaytime"},
   {"url": "https://agit.ai/lengniuge/TVbox/raw/branch/master/ts.json","name": "lengniuge"},
-  //{"url": "http://111.67.196.181/mtv/270.txt","name": "<22>270"},
+  {"url": "https://agit.ai/zqk219/baip/raw/branch/master/tv.json","name": "小可爱"},
   //{"url": "http://111.67.196.181/mtv/270.txt","name": "<22>270"},        
   //{"url": "http://111.67.196.181/mtv/270.txt","name": "<22>270"},
   //{"url": "http://111.67.196.181/mtv/270.txt","name": "<22>270"},
