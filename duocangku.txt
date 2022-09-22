@@ -10,7 +10,7 @@
 {"sourceName":"8号仓库","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/%e8%80%81%e5%8f%b8%e6%9c%ba%e9%9b%86%e5%90%88.json"},
 {"sourceName":"9号仓库","sourceUrl":"http://5.nxog.top/m/dc/api/api/9/tv/update_yuan"},
 {"sourceName":"10号仓库","sourceUrl":"http://5.nxog.top/m/dc/api/api/10/tv/update_yuan"},
-{"sourceName":"11号仓库","sourceUrl":"http://5.nxog.top/m/dc/api/api/11/tv/update_yuan"},
+{"sourceName":"11号仓库","sourceUrl":"http://5.nxog.top/m/dc/api/api/11/tv/update_yuan"}
 
 
 ]}
