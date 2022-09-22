@@ -5,20 +5,20 @@
 "name": "IQIQ家庭版线路"
 },
 {
-"url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/观影TV/gfjt.json",
-"name": "FASTGIT家庭版线路"
+"url": "http://js.134584.xyz/json/pp87.json",
+"name": "pp87"
 },
 {
-"url":"https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/观影TV/proxyjt.json",
-"name": "GHPROXY家庭版线路"
+"url":"http://47.242.90.42:8888/down/BJZPa8THuiE9",
+"name": "星辰"
 },
 {
-"url": "https://agit.ai/zhanghong/tvbox/raw/branch/master/agitjt.json",
-"name": "GAIT家庭版线路"
+"url": "https://神器每日推送.tk/pz.json",
+"name": "神器每日"
 },
 {
-"url": "https://agit.ai/66666/mao/raw/branch/master/00/自用.txt",
-"name": "66666自用线路"
+"url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+"name": "meowcf"
 },
 {
 "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
@@ -80,10 +80,15 @@
 "url": "http://xn--4bra.live/A佬",
 "name": "A佬副线"
 },
-{
-"url": "http://刚刚.live/gg",
-"name": "GG线路"
-},
+{"url": "https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/normal.json","name": "XuQqu"},
+{"url": "https://agit.ai/n/b/raw/branch/a/b/c.json","name": "GG线路"},
+//{"url": "http://刚刚.live/gg","name": "GG线路"},
+//{"url": "http://刚刚.live/gg","name": "GG线路"},
+//{"url": "http://刚刚.live/gg","name": "GG线路"},
+
+
+
+
 {
 "url": "http://xn--4bra.live/gg.json",
 "name": "GG副线"
@@ -190,10 +195,6 @@
 {
 "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/福利接口.txt",
 "name": "佰欣园个人二线"
-},
-{
-"url": "https://gitea.com/houxian/json/raw/branch/master/adult.json",
-"name": "houxian个人线路"
 },
 {
 "url": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg",
