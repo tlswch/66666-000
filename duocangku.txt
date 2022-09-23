@@ -1,4 +1,4 @@
-{"urls":[
+{"storeHouse":[
 {"sourceName":"zqk219","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/zqk19.json"},
 {"sourceName":"1号仓库","sourceUrl":"https://agit.ai/zhanghong/jyys/raw/branch/master/1"},
 {"sourceName":"2号仓库","sourceUrl":"https://agit.ai/zhanghong/jyys/raw/branch/master/2"},
