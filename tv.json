@@ -26,7 +26,7 @@
 {"key":"mtv_pc_快看影视","name":"爬虫┃快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_奥特影视","name":"爬虫┃奥特影视","type":3,"api":"csp_Auete"         ,"searchable":1,"quickSearch":1,"filterable":1},
 
-{"key": "csp_AppTT","name": "图图影视 |爬虫|","type": 3,"api": "csp_AppTT", "searchable": 1,"quickSearch": 1,"filterable": 1 ,"jar":"clan://tvbox/jar/图图.jar"},
+{"key": "csp_AppTT","name": "图图影视 |爬虫|","type": 3,"api": "csp_AppTT", "searchable": 1,"quickSearch": 1,"filterable": 1 ,"jar":"https://agit.ai/zqk219/baip/raw/branch/master/jar/图图.jar"},
 
 
 {"key":"mtv_pc_视界影视","name":"爬虫┃视界影视","type":3,"api":"csp_KanSJ"         ,"filterable":1,"quickSearch":1,"searchable":1},
