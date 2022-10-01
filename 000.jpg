@@ -103,7 +103,17 @@
    "filterable": 1
   }, 
 
-         {"key":"zbk-test-DRPY-JS","name":"真不卡测试[DRPY][JS]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js"},{"key":"360-JS-DR","name":"360[JS][DR]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/dr.js?rule=dr/360影视.js"},{"key":"77-JS","name":"77[JS]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/kunyu77.js"},{"key":"77-JS-2","name":"77[JS]2","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/kunyu77_2.js"},
+{
+            "key": "kunyu77_js",
+            "name": "酷云七七(JS)",
+            "type": 3,
+            "api": "js_kunyu77",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://agit.ai/hj620/tvbox/raw/branch/master/Meow/kuyun77.js"
+        },
+
   {
             "key": "csp_Ninanying",
             "name": "SP | NianYing",
