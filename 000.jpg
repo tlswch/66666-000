@@ -176,6 +176,17 @@
 },  
 
 {
+  "key": "csp_xb_jiumeng",
+  "name": "旧梦影视(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "http://150.158.130.238:4433/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+ },
+
+{
 "key": "csp_xBPQ_酷客影视",
 "name": "酷客影视(XBPQ)",
 "type": 3,
