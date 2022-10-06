@@ -93,7 +93,8 @@
      "quickSearch": 1,
      "filterable": 1
      },{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"mtv_pc_酷云七七","name":"🔥酷云七七","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1},  {
+{"key":"七七","name":"🔥酷云七七","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1 ,"jar": "https://download.kstore.space/download/3376/77.jar;md5; FAEEBD2B655F4340D2AF251A4055C1FE"},  
+{
    "key": "dr_酷云77",
    "name": "酷云77(道长)",
    "type": 1,
@@ -102,17 +103,6 @@
    "quickSearch": 0,
    "filterable": 1
   }, 
-
-{
-            "key": "kunyu77_js",
-            "name": "酷云七七(JS)",
-            "type": 3,
-            "api": "js_kunyu77",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://agit.ai/hj620/tvbox/raw/branch/master/Meow/kuyun77.js"
-        },
 
   {
             "key": "csp_Ninanying",
@@ -1195,7 +1185,7 @@
 
 //jar+壁纸
 
-"spider":"https://agit.ai/66666/mao/raw/commit/67af4a9c9361062061554e5bb8880204b6001530/jar/0928.jar","wallpaper":"https://tool.weetai.cn/api",
+"spider":"https://agit.ai/zzzlllmmm1/vvebo/raw/branch/main/spider/tk.jar","wallpaper":"https://tool.weetai.cn/api",
 
 //电视直播
 
