@@ -1,5 +1,5 @@
 {"wallpaper":"https://qiu.moe/a723",
-"spider":"https://notabug.org/lTV/cc/raw/master/jar/Q2.jar",
+"spider":"https://agit.ai/66666/000/raw/branch/master/jar/1.jar",
 "sites": [
 
 //==================================jar爬虫==================================================================
@@ -34,7 +34,7 @@
 {"key":"剧荒TV(SP)","name":"剧荒TV()","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1,
  "jar":"https://notabug.org/lTV/cc/raw/master/jar/Q1.jar"
 },
-{"key": "csp_CZSPP","name": "厂长资源()","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch": 1,"filterable": 1,"jar": https://framagit.org/ygfxz/000/-/raw/master/ZL.jar"},
+{"key": "csp_CZSPP","name": "厂长资源()","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch": 1,"filterable": 1,"jar":"},
 {"key":"csp_Bttoo","name":"两个BT()","type": 3,"api":"csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"3EDY","name":"3E电影()","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LibVio","name":"LibVio()","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0},
@@ -49,26 +49,26 @@
 {"key":"LiteApple","name":"小苹果()","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1},
 {"key":"哔滴","name":"哔滴影视()","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"tcafe","name":"小纸条()","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,
- "ext":"29975243e264440b85919670b76916c4","jar":"https://notabug.org/lTV/cc/raw/master/jar/Q1.jar"
+ "ext":"","jar":""
 },
 {"key": "csp_bendi", "name": "本地视频()","type": 3,"api": "csp_LocalFile","searchable": 1,"quickSearch":0,
  "filterable":1,"type_flag":1,"jar":"https://notabug.org/lTV/cc/raw/master/jar/Q8.jar"
 },
 {"key": "Yiso","name": "易搜()","type": 3,"api": "csp_Yiso","searchable": 1,"quickSearch": 1,"filterable": 1,
- "ext": "29975243e264440b85919670b76916c4","jar":"https://notabug.org/lTV/cc/raw/master/jar/Q1.jar"
+ "ext": "29975243e264440b85919670b76916c4","jar":""
 },
 {"key": "zhaozy","name": "找资源()","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "29975243e264440b85919670b76916c4","jar":"https://notabug.org/lTV/cc/raw/master/jar/Q8.jar"
+ "ext": "29975243e264440b85919670b76916c4","jar":""
 },
 {"key":"Upyunso","name":"Up云()","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,
  "filterable":0,"ext":"29975243e264440b85919670b76916c4",
- "jar":"https://notabug.org/lTV/cc/raw/master/jar/Q1.jar"
+ "jar":""
 },
 {"key":"AliPS","name":"阿里盘搜()","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "29975243e264440b85919670b76916c4","jar":"https://notabug.org/lTV/cc/raw/master/jar/Q1.jar"
+ "ext": "29975243e264440b85919670b76916c4","jar":""
 },
 { "key":"push_agent","name":"推送()","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,
-  "ext":"29975243e264440b85919670b76916c4","jar":"https://notabug.org/lTV/cc/raw/master/jar/Q1.jar"
+  "ext":"29975243e264440b85919670b76916c4","jar":""
 },
 
 //==================================PY爬虫==================================================================
