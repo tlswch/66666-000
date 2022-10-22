@@ -48,27 +48,70 @@
 {"key":"csp_Cokemv","name":"Cokemv()","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"LiteApple","name":"小苹果()","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1},
 {"key":"哔滴","name":"哔滴影视()","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"tcafe","name":"小纸条()","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0
-},
-{"key": "csp_bendi", "name": "本地视频()","type": 3,"api": "csp_LocalFile","searchable": 1,"quickSearch":0,
- "filterable":1,"type_flag":1,"jar":"https://notabug.org/lTV/cc/raw/master/jar/Q8.jar"
-},
-{"key": "Yiso","name": "易搜()","type": 3,"api": "csp_Yiso","searchable": 1,"quickSearch": 1,"filterable": 1,
- "ext": "29975243e264440b85919670b76916c4","jar":""
-},
-{"key": "zhaozy","name": "找资源()","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "29975243e264440b85919670b76916c4","jar":""
-},
-{"key":"Upyunso","name":"Up云()","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,
- "filterable":0,"ext":"29975243e264440b85919670b76916c4",
- "jar":""
-},
-{"key":"AliPS","name":"阿里盘搜()","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "29975243e264440b85919670b76916c4","jar":""
-},
-{ "key":"push_agent","name":"推送()","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,
-  "ext":"29975243e264440b85919670b76916c4","jar":""
-},
+
+{
+ "key":"Gitcafe",
+ "name":"🔖小纸条",
+ "type":3,
+ "api":"csp_Gitcafe",
+ "searchable":1,
+ "quickSearch":1,
+ "filterable":1
+ },
+
+ {
+ "key":"FindZY",
+ "name":"🔍找资源",
+ "type":3,
+ "api":"csp_Zhaozy",
+ "searchable":1,
+ "quickSearch":1,
+ "filterable":1,
+ "ext":""
+ },
+ {
+ "key":"AliPS",
+ "name":"📀盘搜",
+ "type":3,
+ "api":"csp_AliPS",
+ "searchable":1,
+ "quickSearch":1,
+ "filterable":1,
+ "ext":""
+ },
+ {
+ "key":"csp_Yiso",
+ "name":"🎯易搜",
+ "type":3,
+ "api":"csp_Yiso",
+ "searchable":1,
+ "quickSearch":1,
+ "filterable":0,
+ "ext":""
+ }, {"key":"Upyunso","name":"云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":""},
+ {
+ "key":"push_agent",
+ "name":"📨推送",
+ "type":3,
+ "api":"csp_PushAgent",
+ "searchable":0,
+ "quickSearch":0,
+ "filterable":0,
+ "ext":""
+ },
+
+ {
+ "key":"csp_xpath_clss",
+ "name":"🧲磁搜",
+ "type":3,
+ "api":"csp_XPathFilter",
+ "searchable":1,
+ "quickSearch":1,
+ "filterable":1,
+ "ext":"https://agit.ai/qi169/My9394/raw/branch/master/json/%e7%a3%81%e5%8a%9b%e6%90%9c%e7%b4%a2.json"
+ },
+
+{"key":"push_agent","name":"😺推送(爱优腾/云盘/磁力)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":""},
 
 //==================================PY爬虫==================================================================
               {"key":"000","name":"下面(py)爬虫需安装py专版支持","type":1,"api":"csp_Bdys01"},
