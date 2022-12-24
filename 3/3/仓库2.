@@ -32,10 +32,6 @@
             "sourceName": "日后①服务器仓",
             "sourceUrl": "https://llf0.38196962.xyz/api/public/dl/lUGNd555/1"
         },
-        // {
-            "sourceName": "日后②本地仓",
-            "sourceUrl": "https://llf0.38196962.xyz/api/public/dl/lUGNd555/2"
-        },
         {
             "sourceName": "日后③网络仓",
             "sourceUrl": "https://llf0.38196962.xyz/api/public/dl/lUGNd555/3"
