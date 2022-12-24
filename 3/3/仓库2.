@@ -10,7 +10,6 @@
 
 {"sourceName":"✨agit1仓库","sourceUrl":"https://agit.ai/caesar_518/my/raw/branch/master/mybox.txt"},
      {"sourceName":"🐻agit2仓库","sourceUrl":"https://agit.ai/caesar_518/my/raw/branch/master/mybox2.txt"},
-     {"sourceName":"⛽️日后仓库","sourceUrl":"https://llf0.38196962.xyz/api/public/dl/lUGNd555/0"},
      {"sourceName":"🏓github2仓库","sourceUrl":"https://github.com/caesar518/my/raw/main/mybox2.txt"},
    {
      "sourceName": "安卓哥开发1号仓",
@@ -28,6 +27,35 @@
 {"sourceName":"应用多多③号仓","sourceUrl":"https://raw.iqiq.io/leevi0709/apps/main/3"},
 {"sourceName":"应用多多④号仓","sourceUrl":"https://raw.iqiq.io/leevi0709/apps/main/4"},
 {"sourceName":"应用多多⑤号仓","sourceUrl":"https://raw.iqiq.io/leevi0709/apps/main/5"},
+
+{
+            "sourceName": "日后①服务器仓",
+            "sourceUrl": "https://llf0.38196962.xyz/api/public/dl/lUGNd555/1"
+        },
+        // {
+            "sourceName": "日后②本地仓",
+            "sourceUrl": "https://llf0.38196962.xyz/api/public/dl/lUGNd555/2"
+        },
+        {
+            "sourceName": "日后③网络仓",
+            "sourceUrl": "https://llf0.38196962.xyz/api/public/dl/lUGNd555/3"
+        },
+        {
+            "sourceName": "日后④号白嫖仓",
+            "sourceUrl": "https://llf0.38196962.xyz/api/public/dl/lUGNd555/4"
+        },
+        {
+            "sourceName": "日后⑤号白嫖仓",
+            "sourceUrl": "https://llf0.38196962.xyz/api/public/dl/lUGNd555/5"
+        },
+        {
+            "sourceName": "日后⑥号白嫖仓",
+            "sourceUrl": "https://llf0.38196962.xyz/api/public/dl/lUGNd555/6"
+        },
+        {
+            "sourceName": "日后⑦号白嫖仓",
+            "sourceUrl": "https://llf0.38196962.xyz/api/public/dl/lUGNd555/7"
+        },
 
 {"sourceName":"欧歌仓库","sourceUrl":"http://5.nxog.top/m/跑路.php"},
 
